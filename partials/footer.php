@@ -10,40 +10,35 @@
       <nav class="col-9@lg order-1@lg">
         <ul class="grid gap-lg">
           <li class="col-6@sm col-3@md">
-            <h4 class="main-footer__legend">Product</h4>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Pricing</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Teams</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Updates</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Features</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Integrations</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Support</a></div>
+            <h4 class="main-footer__legend">Title bloc</h4>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link one</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link two</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link three</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link four</a></div>
           </li>
 
           <li class="col-6@sm col-3@md">
-            <h4 class="main-footer__legend">Developers</h4>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Documentation</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">API reference</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">API status</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Open source</a></div>
+            <h4 class="main-footer__legend">Title bloc</h4>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link one</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link two</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link three</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link four</a></div>
           </li>
 
           <li class="col-6@sm col-3@md">
-            <h4 class="main-footer__legend">Resources</h4>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Tutorials</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Docs</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Community</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Case studies</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Help center</a></div>
+            <h4 class="main-footer__legend">Title bloc</h4>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link one</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link two</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link three</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link four</a></div>
           </li>
 
           <li class="col-6@sm col-3@md">
-            <h4 class="main-footer__legend">About</h4>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Company</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Customers</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Careers</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Education</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Our story</a></div>
-            <div class="main-footer__item"><a href="#0" class="main-footer__link">Press kit</a></div>
+            <h4 class="main-footer__legend">Title bloc</h4>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link one</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link two</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link three</a></div>
+            <div class="main-footer__item"><a href="#0" class="main-footer__link">Link four</a></div>
           </li>
         </ul>
       </nav>

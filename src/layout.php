@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include '/shared/httpd/tp-integration/htdocs/partials/head.php';?>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link id="codyframe" rel="stylesheet" type="text/css" href="src/sass/style.css">
+    <script>document.getElementsByTagName("html")[0].className += " js";</script>
     <title><?=$title?></title>
 </head>
-<body>
+<body class="main-page">
 
 <?php 
     echo $header;
     echo $main;
     echo $footer;
-?>
 
-<?php include $path.'partials/script.php';?>
+include $path.'partials/script.php';?>
     
 </body>
 </html>

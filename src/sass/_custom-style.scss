@@ -12,8 +12,8 @@
 @import 'custom-style/buttons';
 @import 'custom-style/forms';
 
-$primary: #FAA381;
-$secondary: #75DBCD;
+$customPrimary: #FAA381;
+$customSecondary: #75DBCD;
 
 /* -------------------------------- 
 
@@ -37,10 +37,6 @@ Usage: codyhouse.co/license
     width: 100%;
     background-color: var(--color-bg);
     z-index: var(--zindex-header);
-  }
-  
-  .header--expanded {
-    // class added when navigation is visible - small devices only
   }
   
   .header__container {
@@ -329,5 +325,58 @@ Usage: codyhouse.co/license
     
     .main-footer__item {
       font-size: 0.9em;
+    }
+}
+
+//header//
+.header {
+	background: rgba($color: #ffffff, $alpha: 0.5);
+}
+
+//main container//
+.main-page {
+  background: url(../images/background.jpg) fixed center no-repeat;
+  background-size: cover;
+}
+
+.custom-container {
+  text-align: center;
+  color: white;
+    h1 {
+      text-align: inherit;
+      color: inherit;
+      padding-top: 5%;
+
+    }
+    p {
+      text-align: inherit;
+      color: inherit;
+      margin-top: 2%;
+      margin-bottom: 2%;
+    }
+    .search-input {
+      display: flex;
+      margin: auto;
+      max-width: 50%;
+        .search-input__btn {
+          svg {
+            width: 100px;
+          }
+        }
+      }
+}
+
+//footer//
+.main-footer {
+  color: white;
+  position: fixed;
+  bottom: 0px;
+  background: rgba($color: #3b80a8, $alpha: 0.5);
+  min-width: 100%;
+    h4 {
+      color: inherit;
+    }
+    a {
+      color: inherit;
     }
 }

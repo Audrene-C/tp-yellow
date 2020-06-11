@@ -22,7 +22,11 @@
           <li class="header__item"><a href="#0" class="header__link">Blog</a></li>
           <li class="header__item"><a href="#0" class="header__link">Legal mentions</a></li>
           <li class="header__item header__item--divider" aria-hidden="true"></li>
-          <li class="header__item"><?=$button;?></li>
+          <li class="header__item">
+            <button class="btn btn--primary btn--slide-fx js-btn--slide-fx">
+              <span class="btn__label">Book a yacht!</span>
+            </button>
+          </li>
         </ul>
       </div>
     </nav>
